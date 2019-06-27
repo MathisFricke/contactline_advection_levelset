@@ -1,0 +1,28 @@
+\form#0:\[ \Phi = (x - x_0)^2 + (y - y_0)^2 + (z - z_0)^2 - R^2 \]
+\form#1:$ x_0, y_0, z_0 $
+\form#2:\[ \partial_t \phi + v \cdot \nabla \phi = 0. \]
+\form#3:\[ \Sigma(t) = \{x \in \Omega: \phi/t,x) = 0 \]
+\form#4:\[ \Sigma(t) = \{x \in \Omega: \phi(t,x) = 0 \]
+\form#5:\[ \Sigma(t) = \{x \in \Omega: \phi(t,x) = 0 \}. \]
+\form#6:\[ \dfrac{D n_{\Sigma}}{Dt} = - (\nabla v)^{\intercal} n_{\Sigma} + \langle \nabla v \cdot n_{\Sigma}, n_{\Sigma} \rangle \, n_{\Sigma} \]
+\form#7:$ n_{\Sigma} $
+\form#8:$ \dfrac{D}{Dt} $
+\form#9:\[ v(x,y) = (v_0 + c_1 x + c_2 y, -c_y y) \]
+\form#10:$v_0, c_1$
+\form#11:$c_2 $
+\form#12:\[ x_1(t) = x_1^0 e^{c_1 t} + \dfrac{v_0}{c_1} (e^{c_1 t} - 1), \qquad \theta (t) = \dfrac{\pi}{2} + \arctan(-\cot\theta_0 e^{2c_1 t} \pm c_2 \dfrac{e^{2c_1 t} - 1}{2c_1}), \quad c_1 \neq 0. \]
+\form#13:$ ``-``$
+\form#14:$ ``+``$
+\form#15:\[ v(x,y) = (-\sin(\pi x)\cos(\pi y), \cos(\pi x) \sin(\pi y) ) \]
+\form#16:\[ v(x,y) = \dfrac{\cos(\pi t)}{\tau} \cdot (v_0 + c_1 x + c_2 y, -c_y y) \]
+\form#17:\[ x_1(t) = x_1^0 e^{c_1 s(t)} + \dfrac{v_0}{c_1} (e^{c_1 s(t)} - 1) \]
+\form#18:\[ \theta (t) = \dfrac{\pi}{2} + \arctan(-\cot\theta_0 e^{2c_1 s(t)} \pm c_2 \dfrac{e^{2c_1 s(t)} - 1}{2c_1}), \quad c_1 \neq 0.\]
+\form#19:\[ s(t) = \dfrac{\tau}{\pi}\sin(\dfrac{\pi}{\tau}t) \]
+\form#20:\[ \dfrac{D n_{\Sigma}}{Dt} = - (\nabla v)^{\intercal} n_{\Sigma} + \langle \nabla v \cdot n_{\Sigma}, n_{\Sigma} \rangle \, n_{\Sigma}, \]
+\form#21:\[ v(x,y) = (v_0 + c_1 x + c_2 y, -c_1 y), \]
+\form#22:\[ x_1(t) = x_1^0 e^{c_1 t} + \dfrac{v_0}{c_1} (e^{c_1 t} - 1), \qquad \theta (t) = \dfrac{\pi}{2} + \arctan(-\cot\theta_0 e^{2c_1 t} \pm c_2 \dfrac{e^{2c_1 t} - 1}{2c_1}), \quad c_1 \neq 0, \]
+\form#23:\[ v(x,y) = (-\sin(\pi x)\cos(\pi y), \cos(\pi x) \sin(\pi y) ). \]
+\form#24:\[ v(x,y) = \dfrac{\cos(\pi t)}{\tau} \cdot (v_0 + c_1 x + c_2 y, -c_y y). \]
+\form#25:\[ x_1(t) = x_1^0 e^{c_1 s(t)} + \dfrac{v_0}{c_1} (e^{c_1 s(t)} - 1), \]
+\form#26:\[ \theta (t) = \dfrac{\pi}{2} + \arctan(-\cot\theta_0 e^{2c_1 s(t)} \pm c_2 \dfrac{e^{2c_1 s(t)} - 1}{2c_1}), \quad c_1 \neq 0,\]
+\form#27:\[ s(t) = \dfrac{\tau}{\pi}\sin(\dfrac{\pi}{\tau}t). \]
