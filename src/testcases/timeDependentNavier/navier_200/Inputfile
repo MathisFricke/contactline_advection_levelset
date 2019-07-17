@@ -7,7 +7,7 @@ lenZ=1
 
 time=3.0
 CFL=0.5
-writestepsFraction=0.3
+writestepsFraction=0.004
 writeField=true
 
 v0=-0.2
